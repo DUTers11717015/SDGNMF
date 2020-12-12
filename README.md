@@ -18,5 +18,7 @@
 ## Citation
 
   If you find this code useful, please cite:
+  
+  https://dblp.uni-trier.de/rec/journals/ijon/SunWSL18.html?view=bibtex
 
   Jing Sun, Zhihui Wang, Fuming Sun, Haojie Li*. Sparse dual graph-regularized NMF for image co-clustering. Neurocomputing, 2018, 316(NOV.17): 156-165.
